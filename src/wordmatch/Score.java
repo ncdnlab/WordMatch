@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package wordmatch;
 
@@ -14,10 +9,14 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+
 /**
  *
- * @author flora
+ * @author Tasnim Akther, ID: 150103020027
+ * @author Monira Enam Heya, ID: 150103020045
+ * @author Md Mahadi Hasan Nahid, nahid@neub.edu.bd 
  */
+
 public class Score extends javax.swing.JFrame implements ActionListener{
 
     /**
